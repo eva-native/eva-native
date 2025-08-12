@@ -13,6 +13,7 @@ My website: https://wired-world.net/
     <img src="https://raw.githubusercontent.com/eva-native/eva-native/refs/heads/main/resources/bash-original.svg" width="25" height="25"/>
     <img src="https://raw.githubusercontent.com/eva-native/eva-native/refs/heads/main/resources/lua-original.svg" width="25" height="25"/>
     <img src="https://raw.githubusercontent.com/eva-native/eva-native/refs/heads/main/resources/python-original.svg" width="25" height="25"/>
+    <img src="https://raw.githubusercontent.com/eva-native/eva-native/refs/heads/main/resources/javascript-original.svg" width="25" height="25"/>
     <img src="https://raw.githubusercontent.com/eva-native/eva-native/refs/heads/main/resources/elixir-original.svg" width="25" height="25"/>
 </p>
 
@@ -25,6 +26,12 @@ My website: https://wired-world.net/
     <img src="https://raw.githubusercontent.com/eva-native/eva-native/refs/heads/main/resources/cmake-original.svg" width="25" height="25"/>
     <img src="https://raw.githubusercontent.com/eva-native/eva-native/refs/heads/main/resources/qt-original.svg" width="25" height="25"/>
     <img src="https://raw.githubusercontent.com/eva-native/eva-native/refs/heads/main/resources/boost-logo-transparent.svg" width="25" height="25"/>
+    <img src="https://raw.githubusercontent.com/eva-native/eva-native/refs/heads/main/resources/redis-original-wordmark.svg" width="25" height="25"/>
+    <img src="https://raw.githubusercontent.com/eva-native/eva-native/refs/heads/main/resources/azuresqldatabase-original.svg" width="25" height="25"/>
+    <img src="https://raw.githubusercontent.com/eva-native/eva-native/refs/heads/main/resources/html5-original.svg" width="25" height="25"/>
+    <img src="https://raw.githubusercontent.com/eva-native/eva-native/refs/heads/main/resources/css3-original.svg" width="25" height="25"/>
+    <img src="https://raw.githubusercontent.com/eva-native/eva-native/refs/heads/main/resources/htmx-original-wordmark.svg" width="25" height="25"/>
+    <img src="https://raw.githubusercontent.com/eva-native/eva-native/refs/heads/main/resources/opengl-plain.svg" width="25" height="25"/>
 </p>
 
 ## Setup
