@@ -25,8 +25,6 @@ I'm software developer. I'm from Russia
     <img src="https://raw.githubusercontent.com/eva-native/eva-native/refs/heads/main/resources/boost-logo-transparent.svg" width="25" height="25"/>
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eva-native&theme=blueberry&show_icons=true&hide_border=false&layout=compact" alt="eva-native's GitHub Stats" />
-
 ## Setup
 
 - ✍️ Editor (IDE?): neovim
