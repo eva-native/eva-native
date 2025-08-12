@@ -2,8 +2,6 @@
 
 I'm software developer. I'm from Russia
 
-## Setup
-
 ## Languages
 
 <p align="left">
@@ -28,3 +26,14 @@ I'm software developer. I'm from Russia
 </p>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eva-native&theme=blueberry&show_icons=true&hide_border=false&layout=compact" alt="eva-native's GitHub Stats" />
+
+## Setup
+
+- Editor (IDE?): neovim
+- OS: MacOS, Linux (ArchLinux/Kubuntu), Windows (for multimedia)
+- Laptop: MacBook Pro M4 Pro "14
+- Desktop:
+    - CPU: AMD Ryzen 5 7600
+    - GPU: NVidia RTX 3070
+    - RAM: 32GB
+
