@@ -29,10 +29,10 @@ I'm software developer. I'm from Russia
 
 ## Setup
 
-- Editor (IDE?): neovim
-- OS: MacOS, Linux (ArchLinux/Kubuntu), Windows (for multimedia)
-- Laptop: MacBook Pro M4 Pro "14
-- Desktop:
+- ✍️ Editor (IDE?): neovim
+- 👽 OS: MacOS, Linux (ArchLinux/Kubuntu), Windows (for multimedia)
+- 💻 Laptop: MacBook Pro M4 Pro "14
+- 🖥️ Desktop:
     - CPU: AMD Ryzen 5 7600
     - GPU: NVidia RTX 3070
     - RAM: 32GB
