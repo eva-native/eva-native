@@ -6,33 +6,29 @@ My website: https://wired-world.net/
 
 ## Languages
 
-<p align="left">
-    <img src="https://raw.githubusercontent.com/eva-native/eva-native/refs/heads/main/resources/cplusplus.svg" width="25" height="25"/>
-    <img src="https://raw.githubusercontent.com/eva-native/eva-native/refs/heads/main/resources/c.svg" width="25" height="25"/>
-    <img src="https://raw.githubusercontent.com/eva-native/eva-native/refs/heads/main/resources/go-original-wordmark.svg" width="25" height="25"/>
-    <img src="https://raw.githubusercontent.com/eva-native/eva-native/refs/heads/main/resources/bash-original.svg" width="25" height="25"/>
-    <img src="https://raw.githubusercontent.com/eva-native/eva-native/refs/heads/main/resources/lua-original.svg" width="25" height="25"/>
-    <img src="https://raw.githubusercontent.com/eva-native/eva-native/refs/heads/main/resources/python-original.svg" width="25" height="25"/>
-    <img src="https://raw.githubusercontent.com/eva-native/eva-native/refs/heads/main/resources/javascript-original.svg" width="25" height="25"/>
-    <img src="https://raw.githubusercontent.com/eva-native/eva-native/refs/heads/main/resources/elixir-original.svg" width="25" height="25"/>
-</p>
+![C++](https://raw.githubusercontent.com/eva-native/eva-native/refs/heads/main/resources/cplusplus.svg)
+![C](https://raw.githubusercontent.com/eva-native/eva-native/refs/heads/main/resources/c.svg)
+![Go](https://raw.githubusercontent.com/eva-native/eva-native/refs/heads/main/resources/go-original-wordmark.svg)
+![Bash](https://raw.githubusercontent.com/eva-native/eva-native/refs/heads/main/resources/bash-original.svg)
+![Lua](https://raw.githubusercontent.com/eva-native/eva-native/refs/heads/main/resources/lua-original.svg)
+![Python](https://raw.githubusercontent.com/eva-native/eva-native/refs/heads/main/resources/python-original.svg)
+![JS](https://raw.githubusercontent.com/eva-native/eva-native/refs/heads/main/resources/javascript-original.svg)
+![Elixir](https://raw.githubusercontent.com/eva-native/eva-native/refs/heads/main/resources/elixir-original.svg)
 
 ## Technologies
 
-<p align="left">
-    <img src="https://raw.githubusercontent.com/eva-native/eva-native/refs/heads/main/resources/docker-original.svg" width="25" height="25"/>
-    <img src="https://raw.githubusercontent.com/eva-native/eva-native/refs/heads/main/resources/git-original.svg" width="25" height="25"/>
-    <img src="https://raw.githubusercontent.com/eva-native/eva-native/refs/heads/main/resources/nginx-original.svg" width="25" height="25"/>
-    <img src="https://raw.githubusercontent.com/eva-native/eva-native/refs/heads/main/resources/cmake-original.svg" width="25" height="25"/>
-    <img src="https://raw.githubusercontent.com/eva-native/eva-native/refs/heads/main/resources/qt-original.svg" width="25" height="25"/>
-    <img src="https://raw.githubusercontent.com/eva-native/eva-native/refs/heads/main/resources/boost-logo-transparent.svg" width="25" height="25"/>
-    <img src="https://raw.githubusercontent.com/eva-native/eva-native/refs/heads/main/resources/redis-original-wordmark.svg" width="25" height="25"/>
-    <img src="https://raw.githubusercontent.com/eva-native/eva-native/refs/heads/main/resources/azuresqldatabase-original.svg" width="25" height="25"/>
-    <img src="https://raw.githubusercontent.com/eva-native/eva-native/refs/heads/main/resources/html5-original.svg" width="25" height="25"/>
-    <img src="https://raw.githubusercontent.com/eva-native/eva-native/refs/heads/main/resources/css3-original.svg" width="25" height="25"/>
-    <img src="https://raw.githubusercontent.com/eva-native/eva-native/refs/heads/main/resources/htmx-original-wordmark.svg" width="25" height="25"/>
-    <img src="https://raw.githubusercontent.com/eva-native/eva-native/refs/heads/main/resources/opengl-plain.svg" width="25" height="25"/>
-</p>
+![Docker](https://raw.githubusercontent.com/eva-native/eva-native/refs/heads/main/resources/docker-original.svg)
+![Git](https://raw.githubusercontent.com/eva-native/eva-native/refs/heads/main/resources/git-original.svg)
+![Nginx](https://raw.githubusercontent.com/eva-native/eva-native/refs/heads/main/resources/nginx-original.svg)
+![CMake](https://raw.githubusercontent.com/eva-native/eva-native/refs/heads/main/resources/cmake-original.svg)
+![Qt](https://raw.githubusercontent.com/eva-native/eva-native/refs/heads/main/resources/qt-original.svg)
+![Boost](https://raw.githubusercontent.com/eva-native/eva-native/refs/heads/main/resources/boost-logo-transparent.svg)
+![Redis](https://raw.githubusercontent.com/eva-native/eva-native/refs/heads/main/resources/redis-original-wordmark.svg)
+![SQL](https://raw.githubusercontent.com/eva-native/eva-native/refs/heads/main/resources/azuresqldatabase-original.svg)
+![HTML](https://raw.githubusercontent.com/eva-native/eva-native/refs/heads/main/resources/html5-original.svg)
+![CSS](https://raw.githubusercontent.com/eva-native/eva-native/refs/heads/main/resources/css3-original.svg)
+![HTMX](https://raw.githubusercontent.com/eva-native/eva-native/refs/heads/main/resources/htmx-original-wordmark.svg)
+![OpenGL](https://raw.githubusercontent.com/eva-native/eva-native/refs/heads/main/resources/opengl-plain.svg)
 
 ## Setup
 
