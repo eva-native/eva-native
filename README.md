@@ -2,7 +2,7 @@
 
 I'm software developer. I'm from Russia
 
-My website: https://wired-world.net/
+**Website:** [wired-world.net](https://wired-world.net/)
 
 ## Languages
 
