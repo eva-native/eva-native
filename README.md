@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm software developer. I'm from Russia
+I'm software developer.
 
 **Website:** [wired-world.net](https://wired-world.net/)
 
